@@ -3655,6 +3655,49 @@
                 "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=782"
             },
             "initiativeOf": "Regierungsvorlage"
+        },
+        {
+            "id": 67,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 82)",
+            "articles": {
+                "updated": [
+                    "82"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Frank-Walter Steinmeier",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+                },
+                {
+                    "name": "Olaf Scholt",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Olaf_Scholz"
+                },
+                {
+                    "name": "Nancy Faeser",
+                    "role": "Bundesministerin des Innern und für Heimat",
+                    "uri": "https://de.wikipedia.org/wiki/Nancy_Faeser"
+                }
+            ],
+            "date": "2020-12-19",
+            "passed": "2022-12-01",
+            "announced": "2022-12-23",
+            "effectiveSince": "2022-12-24",
+            "legislativeSession": {
+                "id": "20",
+                "uri": "https://www.bundeswahlleiterin.de/bundestagswahlen/2021/ergebnisse/bund-99.html"
+            },
+            "votes": {
+                "yes": 592,
+                "no": 3,
+                "abstentions": 69,
+                "notVoted": 72,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=825"
+            },
+            "initiativeOf": "Regierungsvorlage"
         }
     ]
 }
