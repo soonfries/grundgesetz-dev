@@ -3592,6 +3592,69 @@
                 "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=685"
             },
             "initiativeOf": "CDU/CSU, SPD"
+        },
+        {
+            "id": 66,
+            "title": "Gesetz zur Änderung des Grundgesetzes (Artikel 87a)",
+            "articles": {
+                "updated": [
+                    "87a"
+                ]
+            },
+            "signedOffBy": [
+                {
+                    "name": "Frank-Walter Steinmeier",
+                    "role": "Bundespräsident",
+                    "uri": "https://de.wikipedia.org/wiki/Frank-Walter_Steinmeier"
+                },
+                {
+                    "name": "Olaf Scholt",
+                    "role": "Bundeskanzler",
+                    "uri": "https://de.wikipedia.org/wiki/Olaf_Scholz"
+                },
+                {
+                    "name": "Christian Lidner",
+                    "role": "Bundesminister der Finanzen",
+                    "uri": "https://de.wikipedia.org/wiki/Christian_Lindner"
+                },
+                {
+                    "name": "Nancy Faeser",
+                    "role": "Bundesministerin des Innern und für Heimat",
+                    "uri": "https://de.wikipedia.org/wiki/Nancy_Faeser"
+                },
+                {
+                    "name": "Annalena Baerbock",
+                    "role": "Bundesministerin des Auswärtigen",
+                    "uri": "https://de.wikipedia.org/wiki/Annalena_Baerbock"
+                },
+                {
+                    "name": "Marco Buschmann",
+                    "role": "Bundesminister der Justiz",
+                    "uri": "https://de.wikipedia.org/wiki/Marco_Buschmann"
+                },
+                {
+                    "name": "Christine Lambrecht",
+                    "role": "Bundesministerin der Verteidigung",
+                    "uri": "https://de.wikipedia.org/wiki/Christine_Lambrecht"
+                }
+            ],
+            "date": "2020-09-29",
+            "passed": "2020-09-17",
+            "announced": "2020-10-07",
+            "effectiveSince": "2021-01-01",
+            "legislativeSession": {
+                "id": "19",
+                "uri": "https://www.bundeswahlleiter.de/bundestagswahlen/2017/ergebnisse/bund-99.html"
+            },
+            "votes": {
+                "yes": 567,
+                "no": 96,
+                "abstentions": 20,
+                "notVoted": 51,
+                "invalid": 0,
+                "uri": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=782"
+            },
+            "initiativeOf": "Regierungsvorlage"
         }
     ]
 }
